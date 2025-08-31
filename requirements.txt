@@ -1,0 +1,19 @@
+# Environment configuration
+python-dotenv>=1.0.0
+
+# Web scraping dependencies
+httpx>=0.25.0
+beautifulsoup4>=4.12.0
+lxml>=4.9.0
+readability>=0.3.1
+
+# Vector database and embeddings
+chromadb>=0.4.0
+
+# Machine learning and AI
+torch>=2.0.0
+numpy>=1.24.0
+google-generativeai>=0.3.0
+
+# Note: Make sure to set your Google AI API keys in the environment or configuration
+# GOOGLE_AI_API_KEY=your_api_key_here
